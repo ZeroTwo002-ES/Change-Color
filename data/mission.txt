@@ -1,0 +1,324 @@
+mission "Change paint #00"
+	name "Repaint #00"
+	description "Change ship color to sprite original color (for human ship, it's Republic color)."
+	job
+	repeat
+	on accept
+		event "swizzle0"
+		
+event "swizzle0"
+	government "Escort"
+		swizzle 0
+
+mission "Change paint #01"
+	name "Repaint #01"
+	description "Change ship color to Alpha (combination of red and purple) color."
+	job
+	repeat
+	on accept
+		event "swizzle1"
+		
+event "swizzle1"
+	government "Escort"
+		swizzle 1
+
+mission "Change paint #02"
+	name "Repaint #02"
+	description "Change ship color to Free World color."
+	job
+	repeat
+	on accept
+		event "swizzle2"
+		
+event "swizzle2"
+	government "Escort"
+		swizzle 2
+
+mission "Change paint #03"
+	name "Repaint #03"
+	description "Change ship color to Sheragi (combination of green and cyan) color."
+	job
+	repeat
+	on accept
+		event "swizzle3"
+		
+event "swizzle3"
+	government "Escort"
+		swizzle 3
+
+mission "Change paint #04"
+	name "Repaint #04"
+	description "Change ship color to Syndicate (combination of purple and navy blue) color."
+	job
+	repeat
+	on accept
+		event "swizzle4"
+		
+event "swizzle4"
+	government "Escort"
+		swizzle 4
+
+mission "Change paint #05"
+	name "Repaint #05"
+	description "Change ship color to Merchant color."
+	job
+	repeat
+	on accept
+		event "swizzle5"
+		
+event "swizzle5"
+	government "Escort"
+		swizzle 5
+
+mission "Change paint #06"
+	name "Repaint #06"
+	description "Change ship color to Pirates (dark blood red) color."
+	job
+	repeat
+	on accept
+		event "swizzle6"
+		
+event "swizzle6"
+	government "Escort"
+		swizzle 6
+
+mission "Change paint #07"
+	name "Repaint #07"
+	description "Change ship color to blood red color."
+	job
+	repeat
+	on accept
+		event "swizzle7"
+		
+event "swizzle7"
+	government "Escort"
+		swizzle 7
+
+mission "Change paint #08"
+	name "Repaint #08"
+	description "Change ship color to faded red color."
+	job
+	repeat
+	on accept
+		event "swizzle8"
+		
+event "swizzle8"
+	government "Escort"
+		swizzle 8
+
+mission "Change paint #09"
+	name "Repaint #09"
+	description "Change ship color to black color."
+	job
+	repeat
+	on accept
+		event "swizzle9"
+		
+event "swizzle9"
+	government "Escort"
+		swizzle 9
+
+mission "Change paint #10"
+	name "Repaint #10"
+	description "Change ship color to grey color."
+	job
+	repeat
+	on accept
+		event "swizzle10"
+		
+event "swizzle10"
+	government "Escort"
+		swizzle 10
+
+mission "Change paint #11"
+	name "Repaint #11"
+	description "Change ship color to Bunrodea (Erabu)/(Guard) (it's unpainted color, or white, kinda) color."
+	job
+	repeat
+	on accept
+		event "swizzle11"
+		
+event "swizzle11"
+	government "Escort"
+		swizzle 11
+
+mission "Change paint #12"
+	name "Repaint #12"
+	description "Change ship color to dark navy blue color."
+	job
+	repeat
+	on accept
+		event "swizzle12"
+		
+event "swizzle12"
+	government "Escort"
+		swizzle 12
+
+mission "Change paint #13"
+	name "Repaint #13"
+	description "Change ship color to deep sea blue color."
+	job
+	repeat
+	on accept
+		event "swizzle13"
+		
+event "swizzle13"
+	government "Escort"
+		swizzle 13
+
+mission "Change paint #14"
+	name "Repaint #14"
+	description "Change ship color to faded deeps sea blue color."
+	job
+	repeat
+	on accept
+		event "swizzle14"
+		
+event "swizzle14"
+	government "Escort"
+		swizzle 14
+
+mission "Change paint #15"
+	name "Repaint #15"
+	description "Change ship color to dark cyan color."
+	job
+	repeat
+	on accept
+		event "swizzle15"
+		
+event "swizzle15"
+	government "Escort"
+		swizzle 15
+
+mission "Change paint #16"
+	name "Repaint #16"
+	description "Change ship color to cyan color."
+	job
+	repeat
+	on accept
+		event "swizzle16"
+		
+event "swizzle16"
+	government "Escort"
+		swizzle 16
+
+mission "Change paint #17"
+	name "Repaint #17"
+	description "Change ship color to faded cyan color."
+	job
+	repeat
+	on accept
+		event "swizzle17"
+		
+event "swizzle17"
+	government "Escort"
+		swizzle 17
+
+mission "Change paint #18"
+	name "Repaint #18"
+	description "Change ship color to Bunrodea (Megasa), or Gegno Scin (dark green) color."
+	job
+	repeat
+	on accept
+		event "swizzle18"
+		
+event "swizzle18"
+	government "Escort"
+		swizzle 18
+
+mission "Change paint #19"
+	name "Repaint #19"
+	description "Change ship color to lime green color."
+	job
+	repeat
+	on accept
+		event "swizzle19"
+		
+event "swizzle19"
+	government "Escort"
+		swizzle 19
+
+mission "Change paint #20"
+	name "Repaint #20"
+	description "Change ship color to faded lime green color."
+	job
+	repeat
+	on accept
+		event "swizzle20"
+		
+event "swizzle20"
+	government "Escort"
+		swizzle 20
+
+mission "Change paint #21"
+	name "Repaint #21"
+	description "Change ship color to dark yellow color."
+	job
+	repeat
+	on accept
+		event "swizzle21"
+		
+event "swizzle21"
+	government "Escort"
+		swizzle 21
+
+mission "Change paint #22"
+	name "Repaint #22"
+	description "Change ship color to Heliarch (bright yellow) color."
+	job
+	repeat
+	on accept
+		event "swizzle22"
+		
+event "swizzle22"
+	government "Escort"
+		swizzle 22
+
+mission "Change paint #23"
+	name "Repaint #23"
+	description "Change ship color to faded bright yellow color."
+	job
+	repeat
+	on accept
+		event "swizzle23"
+		
+event "swizzle23"
+	government "Escort"
+		swizzle 23
+
+mission "Change paint #24"
+	name "Repaint #24"
+	description "Change ship color to dark purple color."
+	job
+	repeat
+	on accept
+		event "swizzle24"
+		
+event "swizzle24"
+	government "Escort"
+		swizzle 24
+
+mission "Change paint #25"
+	name "Repaint #25"
+	description "Change ship color to bright purple color."
+	job
+	repeat
+	on accept
+		event "swizzle25"
+		
+event "swizzle25"
+	government "Escort"
+		swizzle 25
+
+mission "Change paint #26"
+	name "Repaint #26"
+	description "Change ship color to faded bright purple color."
+	job
+	repeat
+	on accept
+		event "swizzle26"
+		
+event "swizzle26"
+	government "Escort"
+		swizzle 26
+		
