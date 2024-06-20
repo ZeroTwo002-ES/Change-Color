@@ -1,0 +1,7 @@
+Change color of your fleet ship. It included all color available in endless sky.
+
+Just accept the mission, and your fleet will change color, you can abort the mission after depart from planet you accept the mission from.
+
+Inspired by Prism-Plug-in-main.
+
+(/'-')/ Sorry for the bad english, I'm not good at it. \('-'\)
